@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Z-Walts
-- 👀 I’m interested in health disparities research in chronic disease 
-- 🌱 I’m currently a PhD student in epidemiology
-- 📫 How to reach me: zoelwalts@gmail.com
+- 👀 I’m interested in health disparities research and chronic disease
+- 🌱 I’m currently a PhD student in epidemiology at UW-Madison
+- 📫 How to reach me: zoelwalts@gmail.com or zwalts@wisc.edu
